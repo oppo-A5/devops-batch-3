@@ -1,2 +1,2 @@
 added feature by dev-2
-feature added by dev-3
+my feature added
